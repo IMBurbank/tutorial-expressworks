@@ -1,0 +1,33 @@
+{
+  "name": "tutorial-expressworks",
+  "version": "1.0.0",
+  "description": "Learn Express.js - expressworks tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Test Success')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IMBurbank/tutorial-expressworks.git"
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "express-js",
+    "expressworks",
+    "freecodecamp",
+    "tutorial"
+  ],
+  "author": "IMBurbank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IMBurbank/tutorial-expressworks/issues"
+  },
+  "homepage": "https://github.com/IMBurbank/tutorial-expressworks#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.2",
+    "stylus": "^0.54.5"
+  }
+}
